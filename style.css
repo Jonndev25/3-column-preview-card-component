@@ -106,7 +106,7 @@ main {
     color: var(--Very-light-gray);
 }
 
-.card h1 {
+.card h2 {
     color: var(--Very-light-gray);
     font-family: Big Shoulders Display, sans-serif;
     text-transform: uppercase;
@@ -137,7 +137,7 @@ main {
         margin-bottom: 2.4em;
     }
 
-    .card h1 {
+    .card h2 {
         font-size: 2.5rem;
         margin-bottom: .6em;
     }
@@ -147,92 +147,4 @@ main {
         margin-bottom: 5.5em;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
