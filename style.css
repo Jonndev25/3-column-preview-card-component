@@ -45,7 +45,7 @@ body {
     min-height: 100dvh;
     background: var(--Very-light-gray);
     display: grid;
-    place-content: center;
+    place-items: center;
     font-size: 15px;
     font-family: 'Big Shoulders Display', sans-serif;
     font-family: 'Lexend Deca', sans-serif;
