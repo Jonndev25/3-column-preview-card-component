@@ -24,6 +24,7 @@ a {
   padding: 1em 2.1em;
   display: inline-block;
   text-wrap: nowrap;
+  transition: .3s;
 }
 
 img {
